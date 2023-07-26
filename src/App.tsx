@@ -10,7 +10,7 @@ function App() {
 
   return (
     <section className="flex bg-white h-full dark:bg-black">
-      <main className="flex container w-5/6 mx-auto text-sm font-bold">
+      <main className="container w-5/6 mx-auto text-sm font-bold">
         <h1 className="flex flex-col flex-grow text-center text-lg font-bold uppercase dark:text-white">
           Components
           <Button

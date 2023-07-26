@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Tailwind
+
+- https://tailwindcss.com/docs/
+- https://www.material-tailwind.com/docs/react
+- https://tailwindui.com/components/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
